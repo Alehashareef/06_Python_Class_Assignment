@@ -1,0 +1,10 @@
+{
+    "name": "Aleha",
+    "course": "Python",
+    "marks": [
+        88,
+        90,
+        95
+    ],
+    "pass": true
+}
